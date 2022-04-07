@@ -1,0 +1,68 @@
+.nav{
+    display: flex;
+    align-items: flex-start;
+}
+.header{  
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 100vw;
+    height: 100%;
+    padding-left: 250px;
+    margin-top: 20px;
+}
+.nav li{
+    margin: 0 30px;  
+}
+
+
+
+
+    // // width: $width;
+    // .card {
+    //     // width: $width;
+    //     height: $height;
+    //     border-radius: 2rem;
+    //     background-color: $secondary-background-color;
+    //     overflow: hidden;
+    //     .img {
+    //         border-radius: 1rem;
+    //         height: $height;
+    //         width: 100%;
+    //         position: relative;
+    //     }
+    //     .text-container {
+    //         position: absolute;
+    //         padding: 2rem 3rem 3rem;
+    //         bottom: 0rem;
+    //         background-image: linear-gradient(rgba(2, 2, 2, 0), rgba(7, 10, 70, 1));
+    //         .text-category {
+    //             font-size: 1.6rem;
+    //             font-weight: 600;
+    //             color: white;
+    //             & > span {
+    //                 white-space: nowrap;
+    //                 overflow: hidden;
+    //                 text-overflow: ellipsis;
+    //             }
+    //             @media (max-width: $mobile-screen-size) {
+    //                 font-size: unset;
+    //             }
+    //         }
+    //         .text-subCategory {
+    //             padding-top: 1rem;
+    //             font-size: 2.4rem;
+    //             font-weight: 700;
+    //             color: white;
+    //             line-height: 2.52rem;
+    //             & > span {
+    //                 white-space: nowrap;
+    //                 overflow: hidden;
+    //                 text-overflow: ellipsis;
+    //                 padding: 0.5rem 0;
+    //             }
+    //         }
+    //     }
+    // }
+   

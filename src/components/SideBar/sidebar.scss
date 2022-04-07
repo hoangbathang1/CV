@@ -1,0 +1,28 @@
+.sidebar{
+    display: flex;
+    align-items: flex-start;
+    width: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px 60px;
+    
+}
+
+.author_avatar{
+    width: 175px;
+    height: 175px;
+}
+.avatar img{
+    border-radius: 50%;
+    max-width: 175px;
+}
+
+.author__content{
+    padding: 10px 0;
+}
+.author_urls li{
+    padding: 10px 0; 
+}
+.author_url{
+    padding-left: 20px;
+}
